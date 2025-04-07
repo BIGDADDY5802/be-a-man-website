@@ -75,7 +75,7 @@ cat <<EOF > /var/www/html/index.html
     </div>
     <div class="w3-display-bottomleft w3-padding-small transparent-background outlined-text">
       <h1>My Compute Instance Information</h1>
-      <h3>Michael Churchill, team leader Jerome Hunter/Darian</h3>
+      <h3>Jerome Hunter Group Leader Darian Hall</h3>
       <p><b>Instance Name:</b> $(hostname -f)</p>
       <p><b>Instance Private IP Address: </b> $local_ipv4</p>
       <p><b>Zone: </b> $zone</p>
